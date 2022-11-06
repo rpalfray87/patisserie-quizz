@@ -31,8 +31,11 @@ export default function ReponseBar({definition}) {
         <>
             <div className="reponseBar">
                 <input placeholder="Entrer votre réponse ici..." onKeyDown={(e) => handleKey(e)} type="text" name="nom" id="nom" value={reponseUser} onChange={(e) => setReponseUser(e.target.value)} />
-                <button className="secondary" onClick={(e) => handleJCP(e)}>Je ne sais pas</button>
-                <button className="primary" onClick={(e) => handleValidation(e)}>Valider</button>
+                <div className="container">
+                    <button className="secondary" onClick={(e) => handleJCP(e)}>Je ne sais pas</button>
+                    <button className="primary" onClick={(e) => handleValidation(e)}>Valider</button>
+                </div>
+                
             </div>
         </>
         

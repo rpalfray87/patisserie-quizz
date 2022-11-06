@@ -90,12 +90,30 @@ footer {
 .quizz {
     background-color: var(--window-background-primary );
     padding: 24px;
+    padding-top: 48px;
     border-radius: 5px;
     max-width: 100%;
     max-width: 500px;
-    
     line-height: 1.5em;
     margin: 0 8px;
+    position: relative;
+}
+
+.quizz::before {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left : calc(50% - 40px);
+    top : -40px;
+    border-radius: 40px;
+    background-image: url("./assets/croissant.png");
+    background-color: rgb(245, 223, 180);
+    background-position: 50%;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    border : 8px solid var(--background-color-primary)
 }
 
 .quizz .definition{
@@ -113,11 +131,20 @@ footer {
 }
 
 .reponseBar input {
+    margin-top: 16px;
     line-height: 24px;
     width: 100%;
     text-align: center;
     font-size: 1.5em;
     padding : 8px 0;
+}
+
+.reponseBar .container {
+    margin-top: 8px;
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    row-gap: 16px;
 }
 
 /*** InfosBar ***/
