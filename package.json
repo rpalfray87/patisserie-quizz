@@ -1,12 +1,14 @@
 {
   "name": "patisseriequizz",
   "private": true,
+  "homepage": "https://rpalfray87.github.io/patisserie-quizz",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.2.0",
