@@ -43,6 +43,550 @@
     {
         "name" : "BAIN-MARIE",
         "def" : "Eau plus ou moins chaude, dans laquelle on place des récipients contenant des préparations à cuire ou à tenir à chaud."
+    },
+    {
+        "name" : "BATTRE",
+        "def" : "Agiter vigoureusement une préparation, à l’aide d’un fouet, soit pour la mélanger, soit pour augmenter le volume."
+    },
+    {
+        "name" : "BEURRE CLARIFIE",
+        "def" : "Beurre fondu et décanté. La caséine et le petit lait sont enlevés."
+    },
+    {
+        "name" : "BEURRE MANIE",
+        "def" : "Mélange de beurre et de farine. Utilisé pour le feuilletage inversé, par exemple."
+    },
+    {
+        "name" : "BEURRE POMMADE",
+        "def" : "Beurre ramollit à la consistance d’une pommade."
+    },
+    {
+        "name" : "BEURRER",
+        "def" : "Enduire un moule ou un ustensile de beurre afin d’empêcher les mets d’attacher au fond ou aux parois. Ajouter des particules de beurre à une sauce. Incorporer du beurre dans la détrempe de feuilletage ou de croissant pour le tourage."
+    },
+    {
+        "name" : "BLANCHIR",
+        "def" : "Travailler ensemble jaunes et sucre jusqu’à ce que le mélange devienne mousseux. Opération à but différents qui consiste souvent à mettre un aliment dans de l’eau froide et à le porter à ébullition 1 à 2mn ex : riz au lait. Faire bouillir certains fruits, légumes ou viandes pour enlever l’âcreté, attendrir ou mieux les éplucher."
+    },
+    {
+        "name" : "BOULER",
+        "def" : "Rouler de la pâte pour lui donner la forme d’une boule."
+    },
+    {
+        "name" : "BROYER",
+        "def" : "Ecraser à l’aide d’un rouleau ou d’une broyeuse certaines  matières premières."
+    },
+    {
+        "name" : "BRÛLER",
+        "def" : "Brûler des jaunes : réaction chimique interfaces à la surface du  jaune et du saccharose avec dégagement de chaleur. Pâte trop sèche, qui se déchire. Apporter un motif décoratif sur certains gâteaux à l’aide d’un fer  rouge."
+    },
+    {
+        "name" : "CANDIR",
+        "def" : "Opération qui consiste par immersion dans un sirop de sucre de  constituer des cristaux de sucre (ex les fruits candis)."
+    },
+    {
+        "name" : "CANNELER",
+        "def" : "Pratiquer de petites cannelures peu profondes à l’aide d’un  canneleur sur la surface de certains fruits et légumes (oranges,  citrons, courgettes, carottes)."
+    },
+    {
+        "name" : "CARAMELISER",
+        "def" : "Enduire de sucre caramélisé une pâtisserie ou un moule.  Brûler du sucre sur certains gâteaux avec un fer rouge."
+    },
+    {
+        "name" : "CHEMISER",
+        "def" : "Appliquer à l’intérieur d’un moule, d’une caissette, une légère  couche de glace, gelée, chocolat, papier ou caramel."
+    },
+    {
+        "name" : "CHABLONNER",
+        "def" : "Appliquer du chocolat de couverture ou de la pâte à glacer à la  base des entremets, des ganaches ou de divers appareils avant  leurs montages ou découpages."
+    },
+    {
+        "name" : "CHIQUETER",
+        "def" : "Taillader le tour d’une pièce de feuilletage avant la cuisson avec  la lame d’un couteau, pour lui donner un aspect particulier."
+    },
+    {
+        "name" : "CHINOISER",
+        "def" : "Filtrer à l’aide d’un filtre tronconique à grille extrêmement fine"
+    },
+    {
+        "name" : "CISELER",
+        "def" : "Couper finement la menthe, le basilic."
+    },
+    {
+        "name" : "CLARIFIER",
+        "def" : "Opération qui à pour but d’amener toujours à une séparation :  Séparer le petit lait et la caséine par fusion et décantation (beurre  clarifié). Séparer le blanc et le jaune d’œuf."
+    },
+    {
+        "name" : "COLLER",
+        "def" : "Incorporer de la gélatine dans une préparation. Assembler des  motifs de décoration avec diverses matières premières."
+    },
+    {
+        "name" : "COLORER",
+        "def" : "Ajouter une matière colorante dans une préparation ou des  matières premières."
+    },
+    {
+        "name" : "CONCASSER",
+        "def" : "Broyer assez grossièrement afin d’obtenir des morceaux plus ou  moins gros."
+    },
+    {
+        "name" : "CONCHER",
+        "def" : "Travailler de la couverture en vue de la rendre homogène."
+    },
+    {
+        "name" : "CONFIRE",
+        "def" : "Remplacer l’eau de végétation des fruits par immersion dans un sirop de sucre."
+    },
+    {
+        "name" : "CONGELER",
+        "def" : "Amener une matière première à basse température (<0°C) en vue d’une conservation prolongée."
+    },
+    {
+        "name" : "CORNER",
+        "def" : "Racler complètement des récipients pour y laisser le moins possible de matière première."
+    },
+    {
+        "name" : "CORPS",
+        "def" : "Elasticité, résistance d’une pâte après son pétrissage (due au  gluten)."
+    },
+    {
+        "name" : "CORSER",
+        "def" : "Donner de l’élasticité à une pâte en la pétrissant davantage. Renforcer le goût et l’arôme d’une préparation en lui ajoutant des substances concentrées. On peut aussi corser la saveur d’une  préparation liquide en la faisant réduire."
+    },
+    {
+        "name" : "COUCHER",
+        "def" : "Façonner généralement sur plaque et à la poche des appareils  mous : pâte à choux, biscuit, meringue."
+    },
+    {
+        "name" : "CREMER",
+        "def" : "Travailler une matière grasse seule ou avec du sucre afin de lui  donner la consistance d’une crème."
+    },
+    {
+        "name" : "CROÛTER",
+        "def" : "Séchage à l’air ou en étuve permettant d’obtenir une pellicule  sèche et résistante à la surface de diverses préparations."
+    },
+    {
+        "name" : "DECUIRE",
+        "def" : "Rajouter de l’eau au cours de la cuisson d’un sucre pour le  ramener à une température de cuisson inférieure."
+    },
+    {
+        "name" : "DECORER",
+        "def" : "Embellir l’aspect des gâteaux, etc. pour améliorer leur  présentation, en les ornant avec divers éléments décoratifs."
+    },
+    {
+        "name" : "DEGLACER",
+        "def" : "Faire dissoudre par un apport de liquide les sucs qui se sont  déposés et caramélisés au fond du récipient pendant la cuisson."
+    },
+    {
+        "name" : "DEMOULER",
+        "def" : "Retirer avec précaution le moule d’une préparation."
+    },
+    {
+        "name" : "DENOYAUTER",
+        "def" : "Enlever les noyaux des fruits. Cette opération se fait à l’aide d’un  petit outil spécial, appelé dénoyauteur, ou d’une machine."
+    },
+    {
+        "name" : "DENSIMETRE",
+        "def" : "Instrument qui sert à mesurer la densité d’un liquide."
+    },
+    {
+        "name" : "DENSITE",
+        "def" : "Rapport entre la masse d’un certain volume de ce corps et la  masse d’un égal volume d’eau pris dans les mêmes conditions de  température."
+    },
+    {
+        "name" : "DESSECHER",
+        "def" : "Façonner généralement sur plaque et à la poche des appareils mous : pâte à choux, biscuit, meringue."
+    },
+    {
+        "name" : "DETAILLER",
+        "def" : "Découper des morceaux de pâte de forme bien déterminée dans une abaisse de pâte, à l’aide d’un couteau ou de découpoirs."
+    },
+    {
+        "name" : "DETREMPE",
+        "def" : "Pâte de base, constituée par un mélange de farine, sel et eau, que l’on utilisera lors de la confection du feuilletage ou croissant."
+    },
+    {
+        "name" : "DORER",
+        "def" : "Etendre à l’aide d’un pinceau ou d’un pistolet électrique de la dorure (œuf battu) sur une pâte ou sur un appareil, pour lui donner un aspect brillant après cuisson."
+    },
+    {
+        "name" : "DOUBLER",
+        "def" : "Opération qui consiste à glisser une plaque sous une autre avant ou pendant la cuisson, pour empêcher les produis de ferrer ou pour en garder le moelleux."
+    },
+    {
+        "name" : "DRESSER",
+        "def" : "Disposer correctement les diverses préparations culinaires sur les plats de services. Synonyme de coucher."
+    },
+    {
+        "name" : "EBARBER",
+        "def" : "Enlever la partie qui dépasse des bords d’un gâteau. Oter les bords dépassant irrégulièrement d’une pièce en chocolat moulé. Retirer la partie qui déborde des moules à chocolat (poisson)."
+    },
+    {
+        "name" : "ECALER",
+        "def" : "Ôter l’écale (coquille dure) de certains fruits, noix, noisettes, amandes. Se dit également pour les œufs cuits durs et les coquillages."
+    },
+    {
+        "name" : "ECUMER",
+        "def" : "Oter les impuretés qui se forment à la surface de cuisson de sucre, confitures, gelée ou bouillon à l’aide d’une écumoire."
+    },
+    {
+        "name" : "EGOUTER",
+        "def" : "Débarrasser une pâtisserie ou une denrée de son excédent de liquide."
+    },
+    {
+        "name" : "EMINCER",
+        "def" : "Couper en tranches, en lamelles ou en rondelles plus ou moins  fines, mais d’égale épaisseur (fruits, légumes, viandes)."
+    },
+    {
+        "name" : "EMONDER",
+        "def" : "Enlever la peau des amandes, des noisettes et des pistaches ou  tomates, etc. après les avoir ébouillantées quelques instants."
+    },
+    {
+        "name" : "EMULSIONNER",
+        "def" : "Provoquer la dispersion d’un liquide dans un autre liquide ou  dans une matière dans lequel il n’est pas miscible."
+    },
+    {
+        "name" : "ENFOURNER",
+        "def" : "Mettre dans le four des préparations à cuire."
+    },
+    {
+        "name" : "ENROBER",
+        "def" : "Recouvrir totalement une marchandise d’une couche plus ou  moins épaisse d’une matière protectrice (Couverture, fondant,  pâte à frire, nappage)."
+    },
+    {
+        "name" : "ETIRER",
+        "def" : "Allonger du sucre cuit, le replier sur lui-même, puis  recommencer l’opération plusieurs fois de suite à fin d’obtenir le  satinage du sucre tiré."
+    },
+    {
+        "name" : "ETUVER",
+        "def" : "Mettre un produit à l’étuve, pour accélérer sa fermentation.  Cuire très doucement à couvert, certaines préparations dans un  corps gras sans mouillement."
+    },
+    {
+        "name" : "FAÇONNER",
+        "def" : "Donner une forme particulière en modelant avec les mains toutes  sortes de pâtes."
+    },
+    {
+        "name" : "FARINER",
+        "def" : "Saupoudrer de farine, un tour, une plaque ou un moule afin  d’empêcher certaines fabrications de coller ou de s’étaler."
+    },
+    {
+        "name" : "FESTONNE",
+        "def" : "S’emploie pour désigner des pâtisseries dont le bord est constitué par des dents arrondies (tartelettes, pithiviers)."
+    },
+    {
+        "name" : "FILTRER",
+        "def" : "Faire passer un liquide (sirop, crème, etc.) à travers un filtre à  papier, une étamine, pour le débarrasser de ses impuretés."
+    },
+    {
+        "name" : "FLEURER",
+        "def" : "Même sens que fariner, mais en parsemant une très fine pellicule  de farine."
+    },
+    {
+        "name" : "FLEURONS",
+        "def" : "Petits croissants découpés dans de la pâte feuilletées que l’on  utilise après cuisson pour décorer certains plats."
+    },
+    {
+        "name" : "FOISONNEMENT",
+        "def" : "Augmentation de volume que l’on constate après turbinage d’un  appareil à glace."
+    },
+    {
+        "name" : "FONCER",
+        "def" : "Tapisser l’intérieur d’un moule ou d’un cercle avec de la pâte  afin de constituer un fond."
+    },
+    {
+        "name" : "FOND",
+        "def" : "Pâtisserie utilisée comme base de fabrication et constituant généralement la couche intérieure d’un gâteau. (ex : fonds de  vacherins, succès)."
+    },
+    {
+        "name" : "FONTAINE",
+        "def" : "Creux que l’on fait dans de la farine ou autre matière première, et ou l’on verse les matières liquides à incorporer."
+    },
+    {
+        "name" : "FOUETTER",
+        "def" : "Action qui consiste à battre plus ou moins vigoureusement une  matière ou une préparation avec un ustensile appelé fouet, dans le but de mélanger, de lier, d’alléger, etc."
+    },
+    {
+        "name" : "FOURRER",
+        "def" : "Garnir de crème ou d’une autre matière un fond de pâtisserie."
+    },
+    {
+        "name" : "FRAISER",
+        "alt" : "FRASER",
+        "def" : "Ecraser intimement les éléments d’une pâte avec la paume de la main pour la lisser, tout en évitant de lui donner du corps."
+    },
+    {
+        "name" : "FRIRE",
+        "def" : "Opération consistant à cuire des articles dans un bain de graisse bouillante."
+    },
+    {
+        "name" : "GARNIR",
+        "def" : "Remplir une préparation (crème, génoise, etc.) un fond de  gâteau, un moule, une poche."
+    },
+    {
+        "name" : "GLACER",
+        "def" : "Action de recouvrir partiellement ou entièrement la surface d’une  pâtisserie avec un glaçage (fondant, glace à l’eau, chocolat, etc.).  Rendre brillant la surface d’une pâtisserie avec du sirop avant le  passage au four ou saupoudré de sucre glace en fin de cuisson."
+    },
+    {
+        "name" : "GRAINER",
+        "def" : "Modifier l’aspect d’une préparation en lui faisant perdre son homogénéité. Exemple : faire grainer du sucre, des blancs  d’œufs."
+    },
+    {
+        "name" : "GRAISSER",
+        "def" : "Enduire à l’aide d’un pinceau ou d’une bombe à graisse les parois de moules, de plaques, d’une fine couche de matière  grasse. Action d’ajouter du glucose, de la crème de tartre, etc. dans un sucre pour l’empêcher de grainer."
+    },
+    {
+        "name" : "GRILLER",
+        "def" : "Passer au four ou sous un gril, dans le but de cuire jusqu’à blondissement complet."
+    },
+    {
+        "name" : "HABILLER",
+        "def" : "Action de plumer, vider, flamber, éplucher et brider une volaille ou un gibier à plume."
+    },
+    {
+        "name" : "HACHER",
+        "def" : "Couper en petits morceaux des noix, pistaches ou amandes avec un couteau ou un cutter."
+    },
+    {
+        "name" : "IMBIBER",
+        "def" : "Faire pénétrer un liquide (sirop, alcool, liqueur, etc.) dans une préparation, soit dans le but de la rendre moins sèche, soit dans le but de la parfumer."
+    },
+    {
+        "name" : "INCISER",
+        "def" : "Entailler ou couper plus ou moins profondément une pâtisserie à l’aide d’un instrument tranchant pour agrémenter sa présentation."
+    },
+    {
+        "name" : "INCORPORER",
+        "def" : "Faire entrer une substance dans une préparation."
+    },
+    {
+        "name" : "INCRUSTER",
+        "def" : "Marquer, plus ou moins profondément, la surface d’une pâtisserie ou d’une confiserie, de motifs décoratifs à l’aide d’un couteau, d’un ébauchoir, d’un découpoir, etc."
+    },
+    {
+        "name" : "INFUSER",
+        "def" : "Action de mettre une substance aromatique dans un liquide bouillant le temps nécessaire pour lui communiquer son arôme. Exemple : infuser du thé dans du lait."
+    },
+    {
+        "name" : "INTERIEURS",
+        "def" : "Préparations de confiserie aux formes très variées destinées à être enrobées de couverture de chocolat."
+    },
+    {
+        "name" : "ISOMERE",
+        "def" : "Se dit de composés ayant la même formule chimique."
+    },
+    {
+        "name" : "LEVAIN",
+        "alt": "POOLISCH",
+        "def" : "Préparation obtenue par un mélange de farine de levure biologique et d’eau ou par un mélange de farine avec un levain de pâte naturelle (vieille pâte que l’on fait aigrir) et qui est destinée à faire fermenter les pâtes dans lesquelles on l’introduit."
+    },
+    {
+        "name" : "LIER",
+        "def" : "Epaissir et donner du velouté à une crème en lui incorporant certaines substances (jaunes d’œufs, poudre à crème ou farine). Exemple : Lier une crème pâtissière avec de la poudre à crème."
+    },
+    {
+        "name" : "LUSTRER",
+        "def" : "Recouvrir une préparation de nappage, de gelée, de beurre clarifié, pour lui donner un aspect brillant."
+    },
+    {
+        "name" : "LYOPHILISATION",
+        "def" : "Dessiccation de produits préalablement congelés par sublimation de la glace formée (sans passage à l’état liquide) et par l’action conjuguée du vide et de la chaleur."
+    },
+    {
+        "name" : "MACERER",
+        "def" : "Faire tremper, plus ou moins longtemps, dans de l’alcool ou dans un liquide aromatique alcoolisé, des fruits frais, secs ou confits, afin de les conserver ou les parfumer."
+    },
+    {
+        "name" : "MALAXER",
+        "def" : "Pétrir à la main ou ramollir et améliorer les qualités plastiques de certaines matières grasses. Exemple : malaxer la margarine."
+    },
+    {
+        "name" : "MARBRER",
+        "def" : "Réaliser des décors marbrés sur des entremets glacés au fondant, nappage, etc."
+    },
+    {
+        "name" : "MASQUER",
+        "def" : "Recouvrir entièrement la surface supérieure et les bords des  gâteaux d’une couche plus ou moins épaisse de crème, de  chocolat fondu, de pâte d’amandes, de marmelade, etc."
+    },
+    {
+        "name" : "MASSER",
+        "def" : "Faire cristalliser volontairement un sirop de sucre partiellement  ou entièrement. Exemple : Le sucre tourne ou masse."
+    },
+    {
+        "name" : "MATURATION",
+        "def" : "Opération destinée en glacerie à affiner les qualités gustatives  d’un mix, préalablement pasteurisé, en faisant mûrir celui-ci à  basse température pendant un laps de temps pouvant aller jusqu’à 24 heures maximum."
+    },
+    {
+        "name" : "MIX",
+        "def" : "Mélange de tous les ingrédients d’une recette de glacerie. On dit  généralement un « appareil »."
+    },
+    {
+        "name" : "MIXER",
+        "def" : "Action de mélanger ou de pulvériser plusieurs substances dans  un mixeur."
+    },
+    {
+        "name" : "MODELER",
+        "def" : "Exécuter avec une substance souple et malléable (pâte d’amande,  pâte morte, etc.) la reproduction d’un sujet choisi. Exemple : modeler des fruits en pâte d’amande."
+    },
+    {
+        "name" : "MONDER",
+        "def" : "Eliminer la peau de certains fruits ou de certains légumes en les  plongeant pendant quelques secondes dans de l’eau bouillante et  en les rafraîchissant immédiatement."
+    },
+    {
+        "name" : "MONTER",
+        "def" : "Battre au fouet une substance ou un appareil pour le rendre plus  léger et en augmenter le volume. Exemple : monter des blancs  d’œufs en neige. Assembler les différentes parties d’une pâtisserie pour en faire un  gâteau plus ou moins important. Exemple : monter une pièce  montée, un entremets."
+    },
+    {
+        "name" : "MOUCHETER",
+        "def" : "Projeter des petits points de colorant ou de chocolat sur certaines  pièces ou motifs modelés en pâte d’amande."
+    },
+    {
+        "name" : "MOULER",
+        "def" : "Verser une substance ou une préparation liquide ou semi-liquide (sucre-chocolat) dans un moule pour obtenir une reproduction de  sa forme après solidification."
+    },
+    {
+        "name" : "NAPPER",
+        "def" : "Verser sur un mets une sauce, un coulis, une crème, etc. ; de  manière à le recouvrir aussi complètement et uniformément que  possible."
+    },
+    {
+        "name" : "OBTURER",
+        "def" : "Boucher ou fermer la cavité d’un gâteau ou d’un bonbon de  chocolat moulé avec une crème ou de la couverture de chocolat."
+    },
+    {
+        "name" : "PARER",
+        "def" : "Faire adhérer certaines substances sur les bords et parfois sur la  surface supérieure de gâteaux. En glacerie, améliorer la présentation de certaines pièces glacées  par la modification de leur forme initiale. Enlever les parties de certaines matières premières qui ne sont  pas bonnes à consommer."
+    },
+    {
+        "name" : "PASTEURISATION",
+        "def" : "Traitement thermique de conservation des aliments, au cours  duquel ceux-ci sont chauffés à 65-95°C pendant quelques  minutes, puis refroidis immédiatement. Elle permet de détruire  les micro-organismes pathogènes, sans modifier le goût et la  valeur nutritionnelle des produits : Pasteurisation basse : T°C 60-65°C, 30 minutes. Pasteurisation haute : T°C 82-85°C, 1 minute. Pasteurisation flash : T°C 92-95°C, 1 seconde."
+    },
+    {
+        "name" : "PATON",
+        "def" : "Nom donnée à de la pâte feuilletée tourée et prête à l’emploi."
+    },
+    {
+        "name" : "PESER",
+        "def" : "Déterminer ou préparer une certaine quantité de matière première  à l’aide d’une balance, par comparaison avec l’unité de poids. Evaluer la densité d’un sirop de sucre à l’aide d’un pèse sirop ou  densimètre."
+    },
+    {
+        "name" : "PINCER",
+        "def" : "Opération qui consiste à agrémenter le pourtour d’une tarte, d’un  pâté, d’une tourte, en striant les bords à l’aide d’une pince à tarte  ou en serrant entre les doigts un peu de pâte à la fois."
+    },
+    {
+        "name" : "PIQUER",
+        "def" : "Percer de nombreux petits trous la surface supérieure d’une  abaisse de pâte, dans le but d’empêcher la formation de  boursouflures durant la cuisson."
+    },
+    {
+        "name" : "POCHER",
+        "def" : "Opération qui consiste à cuire une préparation ou des aliments  dans un liquide (eau, sirop de sucre) que l’on tient à une température voisine de l’ébullition."
+    },
+    {
+        "name" : "POINTAGE",
+        "def" : "Le pointage permet à la fermentation de se développer à  l’intérieur d’une pâte levée, durant un temps plus ou moins long."
+    },
+    {
+        "name" : "POUSSE",
+        "def" : "Augmentation du volume d’une pâte due à la fermentation.  Développement caractéristique de la pâte feuilletée à la cuisson."
+    },
+    {
+        "name" : "PUNCHER",
+        "def" : "Faire pénétrer un liquide dans une pâtisserie pour l’imbiber ou  pour la parfumer."
+    },
+    {
+        "name" : "RAYER",
+        "def" : "Avec la pointe de la lame d’un couteau d’office, inciser de raies  parallèles la surface préalablement dorée de certains gâteaux  dans le but de parfaire la présentation."
+    },
+    {
+        "name" : "RELACHER",
+        "def" : "Se dit des pâtes et des crèmes qui se ramollissent quelques temps  après la fabrication. Exemple : la crème pâtissière relâche."
+    },
+    {
+        "name" : "RETOMBER",
+        "def" : "Se dit d’une pâte, d’un appareil, d’une meringue dont le volume  diminue après avoir augmenté pendant le montage ou la cuisson,  suivant le cas. Exemple : la génoise retombe, les blancs  retombent, etc."
+    },
+    {
+        "name" : "RIOLER",
+        "def" : "C’est placer des bandes de pâte à intervalles réguliers sur la  surface supérieur d’un gâteau, de façon telle qu’elles  s’entrecroisent en diagonales."
+    },
+    {
+        "name" : "ROGNURES",
+        "def" : "Chutes de pâtisserie provenant de découpes ou d’ébarbage de  gâteaux (chutes de feuilletage)."
+    },
+    {
+        "name" : "ROMPRE",
+        "def" : "Action qui consiste à rabattre une pâte à son état initial après un  certain temps de pointage, pour redonner plus d’activité à la  fermentation et pour donner plus de force à la pâte."
+    },
+    {
+        "name" : "RUBAN",
+        "def" : "Etat d’une préparation devenue suffisamment épaisse, pour  qu’elle s’écoule lentement et se plie sur elle-même comme un  ruban. Exemple : la génoise fait le ruban."
+    },
+    {
+        "name" : "SABLER",
+        "def" : "Opération qui consiste à brasser ensemble de la farine et de la  matière grasse jusqu’à obtention d’un mélange rappelant un peu  la texture du sable. Action de faire masser du sucre cuit en le tournant avec une  spatule, jusqu’à obtention d’une masse granuleuse et sableuse."
+    },
+    {
+        "name" : "SERRER",
+        "def" : "Action de presser ou de rouler une pâte levée pour en chasser le  gaz carbonique au cours de l’opération de façonnage dans le but  de lisser et de corser les pièces fabriquées. Exemple : serrer des  boules de pâte à brioche."
+    },
+    {
+        "name" : "SIROPER",
+        "def" : "Imbiber de sirop un fond de gâteau."
+    },
+    {
+        "name" : "STABILISER",
+        "def" : "En glacerie, c’est incorporer un stabilisateur autorisé dans un mix  à glace, de façon à faire diminuer et à équilibrer la quantité d’eau  non absorbée par les autres constituants (sucre, etc.)"
+    },
+    {
+        "name" : "STERILISATION",
+        "def" : "Traitement thermique de longue conservation des aliments,  obtenue par destruction de la totalité des micro-organismes. Elle  s’obtient en chauffant à plus de 100°C, après l’avoir enfermé  dans un récipient hermétique. Stérilisation basse : T°C 115°C, 10 à 20 minutes. Stérilisation haute : T°C 130/140°C quelques secondes.  Stérilisation à ultra haute T°C : T°C 140/150°C, 2 secondes."
+    },
+    {
+        "name" : "STRIER",
+        "def" : "Tracer des stries, (sillons, parallèles, droits ou ondulés) à l’aide  d’ustensiles divers (fourchette, peigne, pinceau, etc.) sur la  surface supérieure de certains gâteaux. Exemple : strier un sablé  au chocolat."
+    },
+    {
+        "name" : "SURGELATION",
+        "def" : "Procédé de conservation au cours duquel l’abaissement de la température d’un aliment (déjà refroidi), rapide et poussé jusqu’à  moins 50°C permet d’obtenir au cœur du produit, une  température inférieure à –18°C, sans cristallisation importante."
+    },
+    {
+        "name" : "TABLER",
+        "def" : "Amener une couverture au point en travaillant environ les deux  tiers de la masse sur un marbre ou sur une table froide pour la  refroidir."
+    },
+    {
+        "name" : "TAMISER",
+        "def" : "Synonyme de passer."
+    },
+    {
+        "name" : "TIRER",
+        "def" : "Opération qui consiste, après avoir cuit du sucre à une  température déterminée, à l’étirer et à le replier plusieurs fois  pour le satiner, puis confectionner des fleurs, des feuilles, etc."
+    },
+    {
+        "name" : "TOURER",
+        "def" : "Plier en trois ou en quatre, un pâton de pâte feuilletée, après  l’avoir allongé."
+    },
+    {
+        "name" : "TREMPER",
+        "def" : "Imbiber une pièce de pâtisserie (savarin, baba, etc.) avec du  sirop, en la plongeant dans ce sirop. Action de plonger des bonbons ou des intérieurs dans la  couverture ou du fondant."
+    },
+    {
+        "name" : "TURBINER",
+        "def" : "Opération qui a pour but de raffermir un appareil à glace dans  une turbine, en le glaçant."
+    },
+    {
+        "name" : "UPERISATION",
+        "def" : "Procéder de stérilisation du lait."
+    },
+    {
+        "name" : "VANNER",
+        "def" : "Agiter une crème ou une sauce pour conserver la cohésion des  divers éléments qui la composent et empêcher la formation d’une  peau."
+    },
+    {
+        "name" : "ZESTE",
+        "def" : "Peau découpée dans l’écorce des agrumes."
+    },
+    {
+        "name" : "ZESTER",
+        "def" : "Enlever à l’aide d’un couteau zesteur la peau colorée des  agrumes (citrons, oranges, pamplemousses etc.)."
     }
+    
+
 
 ]
