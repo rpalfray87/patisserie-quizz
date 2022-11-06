@@ -40,17 +40,24 @@ export default function Result({reponse}) {
             ? 
             <>
                 <h2>Bonne réponse !</h2>
-                <button onClick={handleContinue}>Continuer</button>
+                <div className="container">
+                    <button onClick={handleContinue}>Continuer</button>
+                </div>
+                
             </> 
             : !toggleReponse && quizzContext.reponseUser != "-1" &&
             <>
                 <h2>Mauvaise réponse !</h2>
-                <button onClick={handleGiveResponse}>Réponse</button>
-                <button onClick={handleRetry}>Réessayer</button>
+                <div className="container">
+                    <button className="secondary" onClick={handleGiveResponse}>Réponse</button>
+                    <button onClick={handleRetry}>Réessayer</button>
+                </div>
+                
             </> }
 
             { (toggleReponse || quizzContext.reponseUser == "-1") && 
             <>
+                <h2>Réponse</h2>
                 <p>{reponse}</p>
                 <button onClick={handleOk}>Ok</button>
             </>}
