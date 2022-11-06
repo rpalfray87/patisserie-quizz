@@ -20,9 +20,10 @@ h1 {
     margin: 24px 0;
     width: 100%;
     font-family: 'lobster', cursive;
-    font-size: 4em;
+    font-size: 3em;
     text-align: center;
     font-weight: 400;
+    padding: 0 16px;
 }
 
 h2 {
@@ -90,9 +91,11 @@ footer {
     background-color: var(--window-background-primary );
     padding: 24px;
     border-radius: 5px;
-    width: 500px;
     max-width: 100%;
+    max-width: 500px;
+    
     line-height: 1.5em;
+    margin: 0 8px;
 }
 
 .quizz .definition{
@@ -111,7 +114,6 @@ footer {
 
 .reponseBar input {
     line-height: 24px;
-    margin-bottom: 16px;
     width: 100%;
     text-align: center;
     font-size: 1.5em;
