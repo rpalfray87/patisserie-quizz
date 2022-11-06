@@ -1,0 +1,48 @@
+[
+    {
+        "name" : "Abaisse",
+        "def" : "Morceau de pâte aplatie selon la forme et l’épaisseur désirée."
+    },
+    {
+        "name" : "ABAISSER",
+        "def" : "Etendre et aplatir la pâte au rouleau ou au laminoir."
+    }
+    ,
+    {
+        "name" : "ABRICOTER",
+        "def" : "Etendre à l’aide d’un pinceau une couche plus ou moins épaisse de marmelade d’abricot sur une préparation."
+    }
+    ,
+    {
+        "name" : "ACCOLER",
+        "def" : "Réunir, assembler deux ou plusieurs éléments pour constituer un gâteau."
+    }
+    ,
+    {
+        "name" : "AIGUILLETTE",
+        "def" : "Morceau de peau d’agrumes, coupé mince et long."
+    }
+    ,
+    {
+        "name" : "APPRET",
+        "def" : "Période de fermentation d’une pâte qui vient entre le façonnage et la cuisson"
+    }
+    ,
+    {
+        "name" : "APPAREIL",
+        "def" : "Mélange de plusieurs substances entrant dans la composition d’une préparation de recettes de pâtisserie."
+    },
+    {
+        "name" : "AROMATES",
+        "def" : "Toute herbe, plante ou racine qui répand une odeur agréable."
+    },
+    {
+        "name" : "AROMATISER",
+        "def" : "Incorporer un arôme ou un aromate à une préparation."
+    },
+    {
+        "name" : "BAIN-MARIE",
+        "def" : "Eau plus ou moins chaude, dans laquelle on place des récipients contenant des préparations à cuire ou à tenir à chaud."
+    }
+
+]

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+
+:root {
+  --background-color-primary : rgb(39, 38, 43);
+  --default-text-color : white;
+  --primary-color : linear-gradient(90deg, rgba(44,64,195,1) 0%, rgba(160,0,255,1) 79%, rgba(174,44,176,1) 100%);
+}
+
+*, ::before, ::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--background-color-primary);
+  color: var(--default-text-color);
+  font-family: "Roboto";
+}
