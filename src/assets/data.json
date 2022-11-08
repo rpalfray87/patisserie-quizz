@@ -174,7 +174,7 @@
     },
     {
         "name" : "DEGLACER",
-        "def" : "Faire dissoudre par un apport de liquide les sucs qui se sont  déposés et caramélisés au fond du récipient pendant la cuisson."
+        "def" : "Faire dissoudre par un apport de liquide les sucs qui se sont déposés et caramélisés au fond du récipient pendant la cuisson."
     },
     {
         "name" : "DEMOULER",
@@ -182,7 +182,7 @@
     },
     {
         "name" : "DENOYAUTER",
-        "def" : "Enlever les noyaux des fruits. Cette opération se fait à l’aide d’un  petit outil spécial, appelé dénoyauteur, ou d’une machine."
+        "def" : "Enlever les noyaux des fruits. Cette opération se fait à l’aide d’un petit outil spécial, appelé dénoyauteur, ou d’une machine."
     },
     {
         "name" : "DENSIMETRE",
@@ -190,11 +190,11 @@
     },
     {
         "name" : "DENSITE",
-        "def" : "Rapport entre la masse d’un certain volume de ce corps et la  masse d’un égal volume d’eau pris dans les mêmes conditions de  température."
+        "def" : "Rapport entre la masse d’un certain volume de ce corps et la masse d’un égal volume d’eau pris dans les mêmes conditions de température."
     },
     {
         "name" : "DESSECHER",
-        "def" : "Façonner généralement sur plaque et à la poche des appareils mous : pâte à choux, biscuit, meringue."
+        "def" : "Déshydrater, faire évaporer l’humidité se trouvant dans une préparation sur le feu (pâte à choux), dans une étuve ou dans un four."
     },
     {
         "name" : "DETAILLER",
